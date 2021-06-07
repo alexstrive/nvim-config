@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/Users/novopashin'
+let g:netrw_dirhist_0='/Users/novopashin/Workspace/WineUp/deployer/src'
+let g:netrw_dirhist_9='/Users/novopashin/Workspace/WineUp/deployer'
+let g:netrw_dirhist_8='/Users/novopashin/Workspace/WineUp/deployer/src'
+let g:netrw_dirhist_7='/Users/novopashin/Workspace/WineUp/deployer'
+let g:netrw_dirhist_6='/Users/novopashin/Workspace/WineUp/deployer/src'
+let g:netrw_dirhist_5='/Users/novopashin/Workspace/WineUp/deployer'
+let g:netrw_dirhist_4='/Users/novopashin/Workspace/WineUp/deployer/src'
+let g:netrw_dirhist_3='/Users/novopashin/Workspace/WineUp/deployer'
+let g:netrw_dirhist_2='/Users/novopashin/Workspace/WineUp/deployer/src'
